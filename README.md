@@ -13,3 +13,8 @@ Dataset obtenido del repositorio de Kaggle.
 - titanic.pdf
 
 Fichero con la resolución de la prática.
+
+
+# Authors
+- Adonis González
+- Eduard Tremps
