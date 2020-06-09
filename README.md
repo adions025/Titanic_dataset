@@ -12,7 +12,7 @@ Dataset obtenido del repositorio de Kaggle.
 
 - titanic.pdf
 
-Fichero con la resolución de la prática.
+Fichero con la resolución de la práctica.
 
 
 # Authors
