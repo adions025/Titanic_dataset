@@ -14,6 +14,10 @@ Dataset obtenido del repositorio de Kaggle.
 
 Fichero con la resolución de la práctica.
 
+- titanic_out.csv
+
+Fichero de de salida:
+write.csv(titanicData, file = "titanic_out.csv")
 
 # Authors
 - Adonis González
